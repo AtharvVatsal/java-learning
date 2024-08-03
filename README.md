@@ -39,6 +39,7 @@ Anyone can contribute just make sure no repitions are made and your contribution
 ## Acknowledgements
 
 - Special Thanks to Bro Code [YouTube Channel](https://www.youtube.com/@BroCodez)
+- Also Telusko's Tutorials are of great help [Telusko's Java Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
 - r/learnjava for any related doubts/issues [Reddit](https://www.reddit.com/r/learnjava)
 - Programiz for simple textual notes [Programiz](https://www.programiz.com/java-programming)
 - Learn Java Online for reference [Learn Java Online](https://www.learnjavaonline.org)
