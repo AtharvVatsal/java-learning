@@ -13,6 +13,7 @@ public class mathematicsClass {
 
         System.out.println("The Hypotenuse is " +hypotenuse+ "\n( " +base+ "," +height+ "," +hypotenuse+ " )");
 
+        
         in.close();
     }
 }
