@@ -16,6 +16,7 @@ public class castingAndConversion {
         byte q = 10;
         byte w = 40;
         int result = q * w; //Max value pf byte can be 127, so here java promotes bytes into int
+        
         System.out.println("Result = "+result);
 
     }
