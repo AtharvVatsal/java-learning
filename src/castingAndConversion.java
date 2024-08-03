@@ -1,4 +1,4 @@
-public class castinAndConversion {
+public class castingAndConversion {
     public static void main (String args[]) {
         //A way to convert one data type to another (if possible)
         //Like integer to float or byte to interger and so on
@@ -12,5 +12,11 @@ public class castinAndConversion {
         float c = 15.67f;
         int d = (int)c;
         System.out.println("C = "+c+"\tD = "+d);
+
+        byte q = 10;
+        byte w = 40;
+        int result = q * w; //Max value pf byte can be 127, so here java promotes bytes into int
+        System.out.println("Result = "+result);
+
     }
 }
