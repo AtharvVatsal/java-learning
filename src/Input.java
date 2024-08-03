@@ -8,5 +8,7 @@ public class Input {
         System.out.print("Hey "+name+"!!\nHow old are you? :");
         int age = scanner.nextInt();
         System.out.println("You are "+age+" years old.");
+
+        scanner.close();
     }
 }
