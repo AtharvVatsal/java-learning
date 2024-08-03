@@ -7,7 +7,6 @@ public class ifStatements {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter Your age: ");
         int age = in.nextInt();
-
         if (age < 18) {
             System.out.println("Not Eligible to vote!");
         } else if (age == 18) {
