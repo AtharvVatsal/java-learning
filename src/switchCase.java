@@ -13,30 +13,21 @@ public class switchCase {
 
         // The switch statement is used to execute one block of code among many based on the value of the choice variable
         switch (choice) {
-            case 1: // If choice is 1
+            case 1 -> // If choice is 1
                 System.out.println("It's Monday");
-                break; // Exit the switch statement
-            case 2: // If choice is 2
+            case 2 -> // If choice is 2
                 System.out.println("It's Tuesday");
-                break;
-            case 3: // If choice is 3
+            case 3 -> // If choice is 3
                 System.out.println("It's Wednesday");
-                break;
-            case 4: // If choice is 4
+            case 4 -> // If choice is 4
                 System.out.println("It's Thursday");
-                break;
-            case 5: // If choice is 5
+            case 5 -> // If choice is 5
                 System.out.println("It's Friday");
-                break;
-            case 6: // If choice is 6
+            case 6 -> // If choice is 6
                 System.out.println("It's Saturday");
-                break;
-            case 7: // If choice is 7
+            case 7 -> // If choice is 7
                 System.out.println("It's Sunday");
-                break;
-            default: // If choice is anything other than 1-7
-                System.out.println("Invalid Input");
-                break; // Exit the switch statement
+            default -> // If choice is anything other than 1-7
         }
 
         // Close the scanner to avoid resource leak
