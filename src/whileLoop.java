@@ -13,5 +13,7 @@ public class whileLoop {
             n--;
         }
         //while loop can be used to do infinite iterations aswell
+
+        in.close();
     }
 }
