@@ -1,7 +1,9 @@
+
 import java.util.Scanner;
 
 public class ifStatements {
-    public static void main(String [] args) {
+
+    public static void main(String[] args) {
         //if statements are used to perform a block of statement if the given condition is true, if false execution moves to the next else if/else block of statements
 
         Scanner in = new Scanner(System.in);
@@ -12,8 +14,12 @@ public class ifStatements {
             System.out.println("Not Eligible to vote!");
         } else if (age == 18) {
             System.out.println("Eligible only if turned 18 6 months or more!");
+        } else if (age > 18 && age < 60) {
+            System.out.println("Eligible to vote, But not a senior citizen");
         } else {
-            System.out.println("Eligible to vote");
+            System.out.println("Eligible to vote and a Senior citizen!");
         }
+
+        in.close();
     }
 }
