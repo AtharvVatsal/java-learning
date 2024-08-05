@@ -28,6 +28,7 @@ public class switchCase {
             case 7 -> // If choice is 7
                 System.out.println("It's Sunday");
             default -> // If choice is anything other than 1-7
+                System.out.println("Invalid Input");
         }
 
         // Close the scanner to avoid resource leak
