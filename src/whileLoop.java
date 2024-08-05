@@ -13,7 +13,7 @@ public class whileLoop {
             n--;
         }
         //while loop can be used to do infinite iterations aswell
-
+        //while loops runs on boolean value ,i.e, true of given condition
         in.close();
     }
 }
