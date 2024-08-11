@@ -44,3 +44,6 @@ Anyone can contribute just make sure no repitions are made and your contribution
 - r/learnjava for any related doubts/issues [Reddit](https://www.reddit.com/r/learnjava)
 - Programiz for simple textual notes [Programiz](https://www.programiz.com/java-programming)
 - Learn Java Online for reference [Learn Java Online](https://www.learnjavaonline.org)
+
+### PS
+All comments were generated with the assistance of ChatGPT. While we've made every effort to ensure accuracy and avoid errors, there may still be some mistakes or inaccuracies. If you spot any issues in the comments, please let us know, and we will address them as soon as possible.
