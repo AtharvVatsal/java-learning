@@ -1,0 +1,4 @@
+Packages: Packages are used to organize related classes, interfaces, and sub-packages into a namespace, much like folders on a computer.
+Package Declaration: Placed at the top of a Java file, it specifies the package to which the class belongs.
+Import Statement: Used to bring in classes from other packages so they can be used in the current file.
+Inheritance: The B class inherits from the A class, demonstrating how a subclass can use a superclass's constructor.
